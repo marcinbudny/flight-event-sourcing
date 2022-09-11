@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightEventSourcing", "src\FlightEventSourcing\FlightEventSourcing.csproj", "{6A626B60-441E-4E0F-9791-C44FD64C4E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightEventSourcing.Tests", "test\FlightEventSourcing.Tests\FlightEventSourcing.Tests.csproj", "{55E5C015-9D1C-4B57-BF12-F5E6E0AF26DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A626B60-441E-4E0F-9791-C44FD64C4E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A626B60-441E-4E0F-9791-C44FD64C4E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A626B60-441E-4E0F-9791-C44FD64C4E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A626B60-441E-4E0F-9791-C44FD64C4E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E5C015-9D1C-4B57-BF12-F5E6E0AF26DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E5C015-9D1C-4B57-BF12-F5E6E0AF26DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E5C015-9D1C-4B57-BF12-F5E6E0AF26DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E5C015-9D1C-4B57-BF12-F5E6E0AF26DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

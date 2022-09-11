@@ -1,0 +1,10 @@
+﻿version: "3"
+
+services:
+  
+  dolittle:
+    image: dolittle/runtime:latest-development
+    ports:
+      - 50053:50053
+      - 51052:51052
+      - 27017:27017
